@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NearLink Child Safety Standards</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+            color: #333;
+        }
+        h1, h2 {
+            color: #1a73e8;
+        }
+        a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .contact {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #f0f4ff;
+            border-left: 4px solid #1a73e8;
+        }
+    </style>
+</head>
+<body>
+    <h1>NearLink Child Safety Standards</h1>
+
+    <p>NearLink is committed to protecting children and minors and ensuring a safe environment for all users. Our app follows strict safety standards to prevent child sexual abuse and exploitation (CSAE) and other harmful behavior.</p>
+
+    <h2>Age Restrictions</h2>
+    <p>Users under the age of 13 are not allowed to create an account on NearLink. Age verification measures are in place to prevent minors from using the app.</p>
+
+    <h2>Monitoring and Reporting</h2>
+    <p>All user interactions are monitored to detect and prevent inappropriate content, including content involving child sexual abuse and exploitation. We provide a clear mechanism for reporting abusive behavior or content.</p>
+
+    <h2>How to Report Concerns</h2>
+    <p>If you encounter any behavior or content that violates our child safety standards, please contact us immediately:</p>
+    <div class="contact">
+        Email: <a href="mailto:hq76822@gmail.com">hq76822@gmail.com</a><br>
+        Website: <a href="https://www.nearlink.com">https://www.nearlink.com</a>
+    </div>
+
+    <h2>Commitment</h2>
+    <p>NearLink is committed to ongoing monitoring, user education, and compliance with Google Play's child safety and CSAE policies. We strive to maintain a safe and responsible social environment for all users.</p>
+
+    <p>Last Updated: January 2026</p>
+</body>
+</html>
